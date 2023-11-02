@@ -20,6 +20,3 @@ Soy un desarrollador con pasión por compartir, desarrollar, buenos fundamentos 
 
 - If you're interested in .NET developing [https://brian593.wordpress.com](https://brian593.wordpress.com) or try my [.NET apps labs](https://github.com/brian593)
 -  Si está interesado en el desarrollo de .NET [https://brian593.wordpress.com] (https://brian593.wordpress.com) o pruebe mis [laboratorios de aplicaciones .NET] (https://github.com/brian593)
-
-![top langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=brian593&hide=jupyter%20notebook,html)
-![repo stats](https://github-readme-stats.vercel.app/api?username=brian593&show_icons=true&line_height=27)
