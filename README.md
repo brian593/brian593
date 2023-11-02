@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning .net and python
 - 🌱 Actualmente estoy aprendiendo .net y python
 
-- 💬 Ask me about xamarin and net core
-- 💬 Pregúntame sobre xamarin y net core
+- 💬 Ask me about Net MAUI and net core
+- 💬 Pregúntame sobre Net MAUI y net core
 
 I am a developer with a passion for sharing, developing, good engineering fundamentals, mobile apps, learning, good documentation, and last but not least Hacking.
 
